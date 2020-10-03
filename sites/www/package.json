@@ -25,7 +25,7 @@
     "@reflexjs/gatsby-theme-tutorial": "^0.3.9",
     "@reflexjs/gatsby-theme-video": "^0.4.8",
     "gatsby": "^2.22.11",
-    "gatsby-plugin-manifest": "^2.4.11",
+    "gatsby-plugin-manifest": "^2.4.33",
     "gatsby-plugin-sitemap": "^2.4.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
