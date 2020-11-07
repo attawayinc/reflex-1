@@ -29,7 +29,7 @@
     "react-dom": "^16.13.1"
   },
   "dependencies": {
-    "@reflexjs/components": "^0.1.8",
+    "@reflexjs/components": "^0.3.2",
     "@reflexjs/gatsby-helpers": "^0.6.0",
     "@reflexjs/utils": "^0.2.1",
     "algoliasearch": "^4.4.0",
