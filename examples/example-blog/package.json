@@ -17,7 +17,7 @@
     "@reflexjs/gatsby-theme-post": "^0.8.1",
     "babel-preset-gatsby": "^0.7.0",
     "gatsby": "^2.26.1",
-    "gatsby-plugin-manifest": "^2.4.17",
+    "gatsby-plugin-manifest": "^2.10.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "reflexjs": "^1.0.1",
