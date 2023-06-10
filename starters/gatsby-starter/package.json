@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "babel-preset-gatsby": "^0.8.0",
-    "gatsby": "^2.26.1",
+    "gatsby": "^5.10.0",
     "gatsby-plugin-reflexjs": "^0.1.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
