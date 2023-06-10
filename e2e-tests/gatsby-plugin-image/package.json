@@ -14,7 +14,7 @@
     "@reflexjs/gatsby-plugin-image": "^0.5.4"
   },
   "devDependencies": {
-    "gatsby": "^2.26.1",
+    "gatsby": "^5.10.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
   }
